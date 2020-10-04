@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">nameProgramm</string>
+    <string name="hello_geekbrains" type="id">Hello GeekBrains!!!</string>
+</resources>
